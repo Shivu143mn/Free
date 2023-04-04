@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗪𝗘𝗟𝗖𝗢𝗠+𝗧𝗢+🅿🅸🅺🅰🆂🅷🅾🆆+𝐁𝐎𝐓!;𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+🆂🅷🅰🅷🅾!;𝗔+𝗦𝗜𝗠𝗣𝗟𝗘+𝗧𝗚+𝗔𝗨𝗧𝗢𝗙𝗜𝗟𝗧𝗘𝗥+𝗕𝗢𝗧!)</p>
 <p align="center">
-  <img src="image/756241c03d7ac86f29142a245827a11d.png" alt="PIKASHOW BOT LOGO">
+  <img src="image/756241c03d7ac86f29142a245827a11d-min.png" alt="PIKASHOW BOT LOGO">
 </p>
 <h1 align="center">
   <b> 𝐏𝐈𝐊𝐀𝐒𝐇𝐎𝐖 𝐁𝐎𝐓</b>
